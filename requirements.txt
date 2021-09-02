@@ -1,0 +1,4 @@
+# py -3 -m venv .venv
+# source .venv/bin/activate
+discord.py
+python-dotenv
